@@ -1,0 +1,4 @@
+﻿  TestIstorija.cpp
+C:\Users\mihaj\Downloads\quiz app\Dase vidi\INKI985_lab08\TestIstorija\TestIstorija\TestIstorija.cpp(152,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mihaj\Downloads\quiz app\Dase vidi\INKI985_lab08\TestIstorija\TestIstorija\TestIstorija.cpp(60): warning C4715: 'proveriOdgovori': not all control paths return a value
+  TestIstorija.vcxproj -> C:\Users\mihaj\Downloads\quiz app\Dase vidi\INKI985_lab08\TestIstorija\x64\Debug\TestIstorija.exe
